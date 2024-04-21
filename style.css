@@ -1,0 +1,79 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.img{
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+
+.inicio{
+    margin-bottom: 10px;
+    margin-left: 40px;
+}
+
+.email,.senha{
+    margin-bottom: 5px;
+    color: #999;
+    font-weight: bold;
+}
+
+.password,.email{
+    width: 300px;
+    height: 40px;
+    border: 2px solid #999;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.bemvindo{
+    margin-bottom: 30px;
+    color: #999;
+    text-align-last: center;
+    font-size: 14px;
+}
+
+#button{
+    width: 300px;
+    height: 40px;
+    background-color: #4162b7;
+    color: white;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+
+.conta{
+    margin-top: 25px;
+    color: #999;
+    text-align-last: center;
+}
+
+.eu{
+    margin-top: 30px;
+    color: #999;
+    text-align-last: center;
+}
+
+.esquecer_senha{
+    margin-left: 130px;
+}
+
+a{
+    color: #4162b7;
+    font-weight: bold;
+    text-decoration: none;
+}
+.p{
+ color: #777;   
+}
