@@ -35,7 +35,6 @@ body{
     border: 2px solid #999;
     border-radius: 5px;
     margin-bottom: 10px;
-    padding: 15px;
 }
 
 .bemvindo{
@@ -75,11 +74,6 @@ a{
     font-weight: bold;
     text-decoration: none;
 }
-
-label{
-    display: flex;
-    color: #777;
-    margin-bottom: 5px;
-    color: #999;
-    font-weight: bold;
+.p{
+ color: #777;   
 }
